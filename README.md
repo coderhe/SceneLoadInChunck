@@ -1,5 +1,5 @@
-# SceneLoadInChunck
-a demo of scene loading/unloading in chuncks of Unity Engine.
+# SceneLoadInChunck / UnityEngine场景分块加载功能
+a demo of scene loading/unloading in chuncks of Unity Engine./ Unity引擎场景分块加载功能的demo实现
 
 # 场景分块加载功能说明
   分块加载说明: 有些场景过于大，因为场景加载时间过长。因此才会要到使用场景分块加载功能加速场景加载速度。基于此原因，采用以场景中的prefab为最小的加载单位，而不需要切割Mesh。
